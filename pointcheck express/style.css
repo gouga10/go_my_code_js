@@ -1,0 +1,31 @@
+body, html {
+  height: 100%;
+  background-color: background-purple;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+  h1 {
+    color: #333;
+    font-size: 1.5rem;
+    padding: 0px 10px;
+    border-left: 3px solid rgb(49, 49, 59);
+  }
+
+  li {
+      
+      font-size: 1rem;
+      font-weight: 400;
+      color: #333;
+      
+      display: inline-block;
+      padding: 15px;
+      position: relative;
+      
+    }
+    
+ul {
+   display: none;  }
